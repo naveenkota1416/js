@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.java{
+    text-align: center;
+    display: inline-flex;
+    height: 100vh;
+    width:100% ;
+    justify-content: center;
+    margin-top: 250px;
+}
+.java1{
+    margin: 10px;
+}
+.java1 img:hover{
+    transform: scaleX(0.9);
+    transition: 0.8s;
+}
